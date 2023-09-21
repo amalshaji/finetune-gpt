@@ -1,4 +1,4 @@
-# Fine tune chatgpt
+# Fine tune gpt-3.5
 
 ## To run
 
